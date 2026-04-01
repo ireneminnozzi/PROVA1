@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rimodificato
+=======
+rimodificato 
+>>>>>>> ramo1
